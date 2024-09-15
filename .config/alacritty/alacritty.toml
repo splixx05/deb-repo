@@ -1,5 +1,5 @@
 import = [
-"~/.config/alacritty/themes/themes/nord.toml"
+"~/.config/alacritty/themes/themes/dracula.toml"
 ]
 
 [env]
@@ -17,7 +17,7 @@ blur = true
 option_as_alt = "Both"
 
 [font]
-normal = { family = "RobotoMONO Nerd Font", style = "Regular" }
+normal = { family = "RobotoMonoNerdFont", style = "Regular" }
 size = 13
 offset = { x = 0, y = 0 }
 

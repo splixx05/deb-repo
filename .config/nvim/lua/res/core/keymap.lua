@@ -27,11 +27,4 @@ keymap.set("n", "<leader>tn", "<cmd>tabn<CR>", { desc = "Go to next tab" }) --  
 keymap.set("n", "<leader>tp", "<cmd>tabp<CR>", { desc = "Go to previous tab" }) --  go to previous tab
 keymap.set("n", "<leader>tf", "<cmd>tabnew %<CR>", { desc = "Open current buffer in new tab" }) --  move current buffer to new tab
 
--- navigation keys 
-keymap.set("n", "a", "h")  -- 'd' move cursor left
-keymap.set("n", "w", "k")  -- 'j' move cursor up
-keymap.set("n", "s", "j")  -- 'k' move cursor down
-keymap.set("n", "d", "l")  -- 'l' move cursor right
-keymap.set("n", "1", "0")  -- '1' move cursor to the start of line
-keymap.set("n", "0", "$")  -- 'l' move cursor to the end of line 
 

@@ -6,8 +6,11 @@ alias ls='eza --icons=always'
 set -x _ZO_ECHO 1
 zoxide init fish | source
 
-#set "cd" as "z" (for zoxide)
+#use "cd" as "z" (for zoxide)
 alias cd='z'
+
+# random aliases
+alias ..= 'cd ..'
 
 #homebrew-config
 #env-conf for homebrew
