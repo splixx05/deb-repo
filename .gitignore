@@ -1,5 +1,6 @@
-# nvim/plug/colors
-.config/nvim/lua/res/plugins/dracula
-.config/nvim/lua/res/plugins/nord
-.config/nvim/lua/res/plugins/tokio-night.lua
-
+# nvim/lua/res/plugins/dracula.lua
+# nvim/lua/res/plugins/ascii.lua
+# .config/nvim/lua/res/plugins/dracula
+# .config/nvim/lua/res/plugins/nord
+# .config/nvim/lua/res/plugins/tokio-night.lua
+.DS_Store
