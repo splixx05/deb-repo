@@ -14,7 +14,7 @@ alias ..= 'cd ..'
 
 #homebrew-config
 #env-conf for homebrew
-#Vorinstallation: sudo apt install -y build-essential procps curl file git 
+#Vorinstallation: sudo nala install -y build-essential procps curl file git 
 #> Eingabe im Term:
 #eval (/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 #echo 'eval (/home/linuxbrew/.linuxbrew/bin/brew shellenv)' >> ~/.config/fish/config.fish

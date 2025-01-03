@@ -24,7 +24,7 @@ set -g theme_avoid_ambiguous_glyphs yes
 set -g theme_powerline_fonts yes
 set -g theme_nerd_fonts yes 
 set -g theme_show_exit_status yes
-set -g theme_color_scheme dracula
+set -g theme_color_scheme tokyo-night
 set -g theme_display_vi no
 set -g theme_display_date no
 set -g theme_display_cmd_duration no
@@ -45,8 +45,8 @@ set -g theme_display_hg yes
 set -g theme_display_fossil yes
 
 #Title config
-set -g theme_title_display_user yes
-set -g theme_title_display_process no
-set -g theme_title_display_path no
+set -g theme_title_display_user no
+set -g theme_title_display_process yes
+set -g theme_title_display_path yes
 set -g theme_title_use_abbreviated_path no
 
